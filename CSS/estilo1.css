@@ -1,0 +1,40 @@
+body
+header {background-color: pink;
+  height: 25%;
+}
+  span:hover {color white;
+    background-color: violet;
+    font-size: 30px;
+
+
+}
+.sobreflecha:hover { width: 20%;
+  border: 5px solid #C204E7;
+  border-radius: 50%;
+}
+section {background-color: pink;
+width: 48%;
+margin: 1%;
+padding: 10px;
+border: 5px solid violet;
+box-sizing: border-box;
+}
+span:hover {color: #FC6FDE;
+background-color: white;}
+
+footer  {background-color: #FC6FDE;
+  border: 5px solid pink;
+}
+.social {
+  display: flex;
+justify-content: space-around;
+}
+.imt:hover {width: 30%;
+  border-radius: 50%;
+}
+.imf:hover {width: 30%;
+  border-radius: 50%;
+}
+.imw:hover {width: 30%;
+  border-radius: 50%;
+}
